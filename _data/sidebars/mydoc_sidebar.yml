@@ -44,27 +44,35 @@ entries:
 #      url: /mydoc_support.html
 #      output: web, pdf
 
-  - title: Release Notes
+  - title: Work Samples
     output: web, pdf
     folderitems:
 
-    - title: 6.0 Release notes
+    - title: Application Administrator tool 
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: 5.0 Release notes
+    - title: Documentation scope and audience
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Installation
+    - title: Installation requirements
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+    - title: Supported devices
+      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Application Server Architecture
     output: web, pdf
     folderitems:
 
-    - title: About Ruby, Gems, Bundler, etc.
+    - title: Server Architecture: Components
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: Install Jekyll on Mac
+    - title: Logging on to the Application Administrator tool
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
