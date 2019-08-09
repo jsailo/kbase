@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "About me"
 keywords: about me
 sidebar: mydoc_sidebar
 permalink: index.html

@@ -23,12 +23,12 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Introduction
+    - title: About me
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: About me
       url: /mydoc_introduction.html
       output: web, pdf
 
