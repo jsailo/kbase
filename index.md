@@ -1,7 +1,6 @@
 ---
 title: "Jimmy Sailo"
 keywords: about me
-tags: [about_me]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: I'm a technical writer offering an experience of over 13 years in the IT industry with writing documentation for domains ranging from RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems.
