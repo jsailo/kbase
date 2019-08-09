@@ -7,8 +7,6 @@ permalink: index.html
 summary: I'm a technical writer offering technical writing experience of over 13 years in the IT industry with writing documentation for domains ranging from RPA, ATM/POS transactions management, ERP, CRM, technical authoring and content management software, enterprise mobile applications, guest facing technologies applications, and embedded systems.
 ---
 
-{% include note.html content="If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called <a alt='technical writing blog' href='http://idratherbewriting.com'>I'd Rather Be Writing</a>. If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider <a href='https://tinyletter.com/tomjoht'>subscribing</a>. I also have a site on <a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>. Also, if you want a slightly different Jekyll documentation theme, see my <a href='https://github.com/amzn/jekyll-doc-project'>Jekyll doc project theme</a>." %}
-
 ## Build the Theme
 
 Follow these instructions to build the theme.
