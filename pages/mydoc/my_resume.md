@@ -1,9 +1,11 @@
 ---
-title: Overview (resume)
+title: Online Resume
 sidebar: mydoc_sidebar
 permalink: my_resume.html
 folder: mydoc
+summary: This page highlights my journey as a technical writer, the companies I have worked with, the trainings and certifications I have taken. My education, languages I know and my achievements and contributions. It also highlights the software tools and documentation standards I have highlighted on this page.
 ---
+
 
 ## Core Skills
 
