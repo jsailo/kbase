@@ -12,14 +12,14 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: My Bookmarks
+    - title: Links I Like
       folderitems:
         - title: Microsoft Style Guide 
           external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
         - title: Google Documentation Style Guide 
           external_url: https://developers.google.com/style/
-        - title: Basics of DITA 
-          external_url: https://learningdita.com/courses/introduction-to-dita/
+        - title: DITA Style Guide Best Practices for Authors 
+          external_url: https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
