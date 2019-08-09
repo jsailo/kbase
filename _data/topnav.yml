@@ -24,7 +24,7 @@ topnav_dropdowns:
           external_url: https://github.com/writarium/
         - title: Product 2
           url: /p2_landing_page.html
-    - title: Links I Like
+    - title: Bookmarks
       folderitems:
         - title: Microsoft Writing Style Guide 
           external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
