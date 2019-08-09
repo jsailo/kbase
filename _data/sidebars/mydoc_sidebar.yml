@@ -261,7 +261,7 @@ entries:
       url: /mydoc_troubleshooting.html
       output: web, pdf
 
-  - title: Tag archives
+  - title: Work Samples
     output: web
     folderitems:
 
