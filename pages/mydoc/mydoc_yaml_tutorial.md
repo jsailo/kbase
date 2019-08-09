@@ -97,7 +97,7 @@ block: |
 **Markdown:**
 
 ```liquid
-{% raw %}<p><b>Feedback</b></p>
+{% raw %}<p><b>Contact Me</b></p>
 <p>{{site.data.samplelist.feedback}}</p>
 
 <p><b>Block</b></p>
@@ -107,7 +107,7 @@ block: |
 **Result:**
 
 <div class="result">
-<p><b>Feedback</b></p>
+<p><b>Contact Me</b></p>
 <p>{{site.data.samplelist.feedback}}</p>
 
 <p><b>Block</b></p>

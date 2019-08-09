@@ -38,13 +38,13 @@ exclude:
 #feedback_subject_line: 
 
 feedback_email: jimmy.sailo@gmail
-# used as a contact email for the Feedback link in the top navigation bar
+# used as a contact email for the Contact Me link in the top navigation bar
 
 # feedback_disable: true
-# if you uncomment the previous line, the Feedback link gets removed
+# if you uncomment the previous line, the Contact Me link gets removed
 
 # feedback_text: "Need help?"
-# if you uncomment the previous line, it changes the Feedback text
+# if you uncomment the previous line, it changes the Contact Me text
 
 # feedback_link: "http://helpy.io/"
 # if you uncomment the previous line, it changes where the feedback link points to

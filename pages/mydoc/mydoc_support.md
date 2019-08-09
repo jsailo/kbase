@@ -10,6 +10,6 @@ folder: mydoc
 topnav: topnav
 ---
 
-Let me know about any bugs or other issues that you find. Just email me at <a href="mailto:tomjoht@gmail.com">tomjoht@gmail.com</a>. You can also [create issues directly within the Github repository here](https://github.com/tomjoht/jekyll-doc/issues).
+Let me know about any bugs or other issues that you find. Just email me at <a href="mailto:jimmy.sailo@gmail.com">jimmy.sailo@gmail.com</a>. You can also [create issues directly within the Github repository here](https://github.com/tomjoht/jekyll-doc/issues).
 
 {% include links.html %}
