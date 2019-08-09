@@ -76,4 +76,14 @@ folder: mydoc
 
 Setup NextComm as a business partner, which provided IT software and hardware solutions to government and private individuals. Grew it from scratch and generated annual revenues of INR 2,000,000/- over a period of three years.
 
+### Training
+
+- Completed a one-year training on Application Programming jointly conducted by Edutech Informatics, Singapore and ZENICS, Government of Mizoram
+- Completed a one-week internal training on instructional design, language, edit, and writing styles at NIIT India Pvt Ltd, Knowledge Solution Business
+
+### Education and Personal Dossier
+
+- **Education:** Bachelor of Arts (English Hons)
+- **Language Proficiency:** English, Hindi, and Mizo
+
 {% include links.html %}
