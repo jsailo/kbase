@@ -1,5 +1,5 @@
 ---
-title: Skills and Careers Growth
+title: Skills and Career Growth
 sidebar: mydoc_sidebar
 permalink: my_resume.html
 folder: mydoc
