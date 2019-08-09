@@ -1,6 +1,6 @@
 ---
 title: "Jimmy Sailo"
-keywords: sample homepage
+keywords: about me
 tags: [about_me]
 sidebar: mydoc_sidebar
 permalink: index.html
