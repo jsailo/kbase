@@ -1,7 +1,7 @@
 ---
-title: "Getting started with the Documentation Theme for Jekyll"
+title: "Jimmy Sailo"
 keywords: sample homepage
-tags: [getting_started]
+tags: [about_me]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: I'm a technical writer offering technical writing experience of over 13 years in the IT industry with writing documentation for domains ranging from RPA, ATM/POS transactions management, ERP, CRM, technical authoring and content management software, enterprise mobile applications, guest facing technologies applications, and embedded systems.
