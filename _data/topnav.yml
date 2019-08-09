@@ -12,14 +12,6 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Links I Like
-      folderitems:
-        - title: Microsoft Writing Style Guide 
-          external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
-        - title: Google Documentation Style Guide 
-          external_url: https://developers.google.com/style/
-        - title: DITA Style Guide Best Practices for Authors 
-          external_url: https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/
     - title: My Profile
       folderitems:
         - title: LinkedIn
@@ -30,3 +22,11 @@ topnav_dropdowns:
           external_url: https://github.com/writarium/
         - title: Product 2
           url: /p2_landing_page.html
+    - title: Links I Like
+      folderitems:
+        - title: Microsoft Writing Style Guide 
+          external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
+        - title: Google Documentation Style Guide 
+          external_url: https://developers.google.com/style/
+        - title: DITA Style Guide Best Practices for Authors 
+          external_url: https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/
