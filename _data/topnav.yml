@@ -16,13 +16,17 @@ topnav_dropdowns:
       folderitems:
         - title: Microsoft Style Guide 
           external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
+        - title: Microsoft Style Guide 
+          external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
         - title: Google Documentation Style Guide 
           external_url: https://developers.google.com/style/
         - title: DITA Style Guide Best Practices for Authors 
           external_url: https://www.oxygenxml.com/dita/styleguide/webhelp-feedback/
-    - title: Products
+    - title: My Profile
       folderitems:
-        - title: Jekyll Documentation Theme
+        - title: LinkedIn
+          external_url: https://www.linkedin.com/in/jimmy-sailo/
+        - title: Resume
           url: /mydoc_introduction.html
         - title: Product 1
           url: /p1_landing_page.html
