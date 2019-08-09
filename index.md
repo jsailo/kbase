@@ -4,6 +4,7 @@ keywords: about me
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: I'm a technical writer offering an experience of over 13 years in the IT industry with writing documentation for domains ranging from RPA, ATM/POS transactions management, ERP, CRM, enterprise mobile applications, guest facing technologies, and embedded systems.
+Companies I have written documentation for include blue chip companies, such as Microsoft, HP, Teradata, and NCR.
 ---
 
 * Creates end-user documentation, such as user guides, installation guides, administrator guides, release notes, run book, online help, along with data sheets and marketing collateral by interacting with software and testing engineers, solution architects, end users, and subject matter experts
