@@ -1,9 +1,9 @@
 ---
-title: Online Resume
+title: Skills & Careers Growth
 sidebar: mydoc_sidebar
 permalink: my_resume.html
 folder: mydoc
-summary: This page highlights my journey as a technical writer, the companies I have worked with, the trainings and certifications I have taken. My education, languages I know and my achievements and contributions. It also highlights the software tools and documentation standards I have highlighted on this page.
+summary: This page highlights the software tools I have used for documentation and the standards and methodologies I have worked on as a technical writer. It takes you through the companies I have worked, my achievements and contributions with the companies and the trainings and the certifications I have been awarded. I have finally concluded it with my education and languages I know.
 ---
 
 

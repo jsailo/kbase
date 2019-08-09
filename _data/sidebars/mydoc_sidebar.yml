@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Online Resume
+    - title: Skills & Careers Growth
       url: /my_resume.html
       output: web, pdf
 
