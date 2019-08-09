@@ -5,11 +5,12 @@ permalink: mydoc_introduction.html
 folder: mydoc
 ---
 
-## Overview
+## Core Skills
 
-This site provides documentation, training, and other notes for the Jekyll Documentation theme. There's a lot of information about how to do a variety of things here, and it's not all unique to this theme. But by and large, understanding how to do things in Jekyll depends on how your theme is coded. As a result, these additional details are provided.
+* **TOOLS:** MS Office, MS Visio, Adobe Framemaker, Adobe Acrobat, Robohelp, Captivate, Photoshop, Libre Office, DITA, MadCap Flare, DITA Storm, Arbortext Epic Editor, Oxygen, Inkscape, Webworks, SnagIt, Confluence, Zendesk, SharePoint, JIRA, Dreamweaver, IIS, XAMPP, Clear Case, Perforce, DocStudio, CVS, VSS, GIT, Tortoise SVN, XML, HTML, and CSS
+* SECONDARY: SQL Server, MySQL, Oracle, PHP, Linux, and XSLT
+* METHODOLOGIES: Structured and unstructured authoring, S1000D, single sourcing, agile, SDLC, and DDLC
 
-The instructions here are geared towards technical writers working on documentation. You may have a team of one or more technical writers working on documentation for multiple projects. You can use this same theme to author all of your documentation for each of your products. The theme is built to accommodate documentation for multiple products on the same site.
 
 ## Survey of features
 
