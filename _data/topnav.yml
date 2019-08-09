@@ -12,7 +12,7 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: My daily bread
+    - title: Resources
       folderitems:
         - title: Microsoft Style Guide 
           external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
