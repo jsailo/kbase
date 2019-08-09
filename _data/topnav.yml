@@ -14,7 +14,7 @@ topnav_dropdowns:
   folders:
     - title: Links I Like
       folderitems:
-        - title: Microsoft Style Guide 
+        - title: Microsoft Writing Style Guide 
           external_url: https://docs.microsoft.com/en-gb/style-guide/welcome/
         - title: Google Documentation Style Guide 
           external_url: https://developers.google.com/style/
