@@ -6,7 +6,7 @@ body {
 }
 .nav ul li a {border-top:0px; background-color:transparent; color: #808080; }
 #navig a[href] {color: #595959 !important;}
-table .table {max-width:900px;}
+table .table {max-width:4000px;}
 
 #navig li.sectionHead {font-weight: bold; font-size: 18px; color: #595959 !important; }
 #navig li {font-weight: normal; }
