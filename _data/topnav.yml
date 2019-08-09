@@ -25,7 +25,7 @@ topnav_dropdowns:
         - title: LinkedIn
           external_url: https://www.linkedin.com/in/jimmy-sailo/
         - title: Resume
-          url: /mydoc_introduction.html
+          url: /my_resume.html
         - title: My GitHub Repo
           external_url: https://github.com/writarium/
         - title: Product 2
