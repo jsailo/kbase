@@ -1,5 +1,5 @@
 ---
-title: "Jimmy Sailo"
+title: "Introduction"
 keywords: about me
 sidebar: mydoc_sidebar
 permalink: index.html
@@ -13,4 +13,4 @@ summary: I'm a technical writer offering an experience of over 13 years in the I
 * Has produced end-user documentation for blue chip companies, such as Microsoft, Hewlett Packard, and NCR Teradata
 * Organizes and completes writing assignments according to standards in terms of clarity, conciseness, style, and terminology
 * International exposure (of working offshore) with teams from various nationalities and geographical locations
-*  Keenly involved in the recruitment, selection, orientation, training and mentoring of technical writers
+* Keenly involved in the recruitment, selection, orientation, training and mentoring of technical writers
