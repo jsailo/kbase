@@ -241,7 +241,7 @@ ul#results-container a:hover {
 }
 
 div#toc ul li {
-    margin: 8px 0px 8px 99px;
+    margin: 8px 0px 8px 22px;
     font-size: 90%;
     list-style: square;
 }
@@ -249,7 +249,7 @@ div#toc ul {
     background-color: whitesmoke;
     padding: 5px;
     border-radius: 5px;
-    max-width: 300px;
+    max-width: 600px;
     color: gray;
 }
 
