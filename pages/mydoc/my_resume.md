@@ -1,13 +1,13 @@
 ---
-title: Skills & Careers Growth
+title: Skills and Careers Growth
 sidebar: mydoc_sidebar
 permalink: my_resume.html
 folder: mydoc
-summary: This page highlights the software tools I have used for documentation and the standards and methodologies I have worked on as a technical writer. It takes you through the companies I have worked, my achievements and contributions with them and the trainings and certifications I have been awarded. I have finally concluded it with my education and languages I know.
+summary: This page highlights the software tools I have used for documentation and the standards and methodologies I have worked on as a technical writer. It takes you through the companies I have worked with, my achievements and contributions, and the trainings and certifications I have been awarded. I have finally concluded it with my education and languages I can read, speak, and write.
 ---
 
 
-## Core Skills
+## Software Tools and Methodologies
 
 * **TOOLS:** MS Office, MS Visio, Adobe Framemaker, Adobe Acrobat, Robohelp, Captivate, Photoshop, Libre Office, DITA, MadCap Flare, DITA Storm, Arbortext Epic Editor, Oxygen, Inkscape, Webworks, SnagIt, Confluence, Zendesk, SharePoint, JIRA, Dreamweaver, IIS, XAMPP, Clear Case, Perforce, DocStudio, CVS, VSS, GIT, Tortoise SVN, XML, HTML, and CSS
 * **SECONDARY:** SQL Server, MySQL, Oracle, PHP, Linux, and XSLT
