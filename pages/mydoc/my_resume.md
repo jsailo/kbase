@@ -3,7 +3,7 @@ title: Skills and Career Growth
 sidebar: mydoc_sidebar
 permalink: my_resume.html
 folder: mydoc
-summary: This page highlights the software tools I have used for documentation and the standards and methodologies I have worked on as a technical writer. It takes you through the companies I have worked with, my achievements and contributions, and the trainings and certifications I have been awarded. I have finally concluded it with my education and languages I can read, speak, and write.
+summary: This page highlights the software tools I have used for documentation and the standards and methodologies I have worked on as a technical writer. It takes you through the companies I have worked with, my achievements and contributions, and the trainings and certifications I have been awarded. I have finally concluded it with my education and language proficiency.
 ---
 
 
