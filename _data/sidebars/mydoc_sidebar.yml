@@ -28,7 +28,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Skills & Careers Growth
+    - title: Skills and Careers Growth
       url: /my_resume.html
       output: web, pdf
 
