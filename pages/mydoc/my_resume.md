@@ -14,25 +14,25 @@ folder: mydoc
 
 ## Career Growth
 
-### AbsenceSoft Software India Pvt Ltd. (February 2018 – February 2019) – Senior Technical Writer
+### AbsenceSoft (February 2018 – February 2019) – Senior Technical Writer
 
 - Sole technical writer in the company and responsible for all technical documentation created in the company – this was in the tune of more than 40 user and administration guides
 - Created a new template used for technical documentation
 - Remotely worked and liaised with product managers and stakeholders across the company to create documentation that was used by companies, such as Amazon
 
-### Automation Anywhere Software Pvt Ltd. (February 2017 – December 2017) – Senior Technical Writer
+### Automation Anywhere (February 2017 – December 2017) – Senior Technical Writer
 
 - Took the initiative of creating and setting up a repository for the documentation team in BitBucket using GIT so that proper versions and branches are created for each release - gave a hands-on training to the documentation team on tasks, such as creating branches, pulling, pushing, and committing their changes to the repository.
 - Mentored two technical writers on the usage of style guides and technical writing principles used in the IT industry
 - Created bots by using a third party tool to automate the process of migrating content from MadCap Flare to Zendesk - this reduced the time of migrating one topic from 30 minutes to 5 minutes
 - Identified tools to improve the team&#39;s work and cut down on time that goes waste
 
-### MSR IT Solution Pvt Ltd. (February 2013 - April 2015) – Senior Technical Writer
+### MSR IT Solution (February 2013 - April 2015) – Senior Technical Writer
 
 - Sole technical writer and took care of the clients&#39; (Quadriga) entire documentation life cycle. Guides produced include, user, administration, configuration, installation guides. Created architecture diagrams based on client request.
 - Reduced the work load, cost, and time to create documentation by introducing documentation methodologies, processes, and tools to the client.
 
-### ESQ Management Solutions India Pvt Ltd. (March 2010 - January 2013) – Publications Group Manager
+### ESQ Management Solutions (March 2010 - January 2013) – Publications Group Manager
 
 - Recruited, managed, mentored, and delegated work to a team of technical writers
 - Automated repetitive documentation tasks by creating macro-based templates and bots, thereby reducing the time to acquaint/train new writers
@@ -41,7 +41,7 @@ folder: mydoc
 - Created how-to videos using Adobe Captivate for products of the company
 - Restructured existing documents by interacting with SMEs to chunk out less important sections based on a thorough usability analysis
 
-### Inmedius Software India Pvt Ltd (CDG, a Boeing Company) (Sept 2008 - February 2010) – Technical Documenter
+### Inmedius Software (CDG, a Boeing Company) (Sept 2008 - February 2010) – Technical Documenter
 
 - Created user, migration, administration, and installation guides for the company&#39;s products, such as iConvert, DITA Storm, and ATA Publishing Suite
 - Carried out the quick and error free migration of heavy Microsoft documents to DITA
@@ -58,7 +58,7 @@ folder: mydoc
 
 - Created the Segmentation module for the &#39;Teradata Relationship Manager&#39; user guide
 
-### NIIT India Pvt Ltd (June 2004 - June 2005) – Instructional Designer
+### NIIT India (June 2004 - June 2005) – Instructional Designer
 
 - Created Instructor Led Training (ILR) books for NIIT&#39;s Knowledge Solution Business
 - ILT Books I wrote include Crystal Reports, .NET, and Software Testing for GNIIT courses
